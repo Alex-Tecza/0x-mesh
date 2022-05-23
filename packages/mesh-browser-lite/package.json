@@ -24,7 +24,7 @@
         "@0x/order-utils": "^10.2.0",
         "@0x/utils": "^5.4.0",
         "ajv": "^6.12.5",
-        "dexie": "^3.0.1",
+        "dexie": "^3.2.2",
         "ethereum-types": "^3.0.0"
     }
 }
